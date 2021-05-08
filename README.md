@@ -11,6 +11,8 @@ Repository contains a high-quality README with description and a link to walkthr
 
 
 
-[Repository link](https://github.com/InaWise/Work-Day-Scheduler/edit/main/README.md)
+[Repository link](https://github.com/InaWise/challenge9)
+
+https://github.com/InaWise/challenge9
 
 
