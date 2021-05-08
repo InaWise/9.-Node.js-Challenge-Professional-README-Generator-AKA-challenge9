@@ -10,3 +10,7 @@ Repository contains multiple descriptive commit messages.
 Repository contains a high-quality README with description and a link to walkthrough video.
 
 
+
+[Repository link](https://github.com/InaWise/Work-Day-Scheduler/edit/main/README.md)
+
+
