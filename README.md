@@ -11,7 +11,7 @@ Repository contains a high-quality README with description and a link to walkthr
 
 
 
-[Repository link](https://github.com/InaWise/challenge9)
+[Repository link](https://github.com/InaWise/9.-Node.js-Challenge-Professional-README-Generator-AKA-challenge9)
 
 https://github.com/InaWise/challenge9
 
