@@ -24,12 +24,10 @@ N/A
 ## License
 This project is licended under:
 
-![2021][InaWise](https://choosealicense.com/licenses/mit/)[object Object]
-$
-
+N/A
 
 ## Contributing:
-undefined
+Only me.
 
 ## Test
 In order to test open the console and run the following:
