@@ -1,6 +1,4 @@
-# None 
 
-$(response.description)
 
 # Table of Contents 
 
