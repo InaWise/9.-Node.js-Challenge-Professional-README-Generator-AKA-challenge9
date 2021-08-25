@@ -16,7 +16,7 @@ Challenge 9 README generator. create proper README files.
 ## Installation:
 In order to install the neccesary dependencies, open the console and run the following:
 
-```[object Object]```
+
 
 ## Usage
 N/A
