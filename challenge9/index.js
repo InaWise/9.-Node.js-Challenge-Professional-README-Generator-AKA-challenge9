@@ -9,7 +9,7 @@ const writeToFile = util.promisify(fs.writeFile)
 
 function promptUser(){
     return inquirer.prompt([
-      {
+    {
             type: 'input',
             name: 'authors',
             message: 'What is the author name?'
@@ -19,13 +19,13 @@ function promptUser(){
             type: 'input',
             name: 'username',
             message: 'What is your Github username?'
-  
+
         },
         {
             type: 'input',
             name: 'email',
             message: 'What is your email adress?'
-      
+
         },
         { 
             type: 'input',
@@ -128,7 +128,7 @@ ${storedAnswer.author} at ${storedAnswer.email}
 
 promptUser().then(function(storedAnswer){
     const markdown = generateMD(storedAnswer);
-    return writeToFile("./generate/generateREADME.md", markdown);
+    return writeToFile("./util/generateMarkdown", markdown);
 }).then(function() {
     console.log("Generating README.md ...");
 }).catch(function(err){

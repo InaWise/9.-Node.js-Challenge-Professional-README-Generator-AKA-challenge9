@@ -34,7 +34,7 @@ In order to test open the console and run the following:
 ```node index.js```
 
 ## Questions
-If you have questions contact me on [Github](https://github.com/undefined) or contact
+If you have questions contact me on [Github](https://github.com/InaWise?tab=repositories) or contact
 undefined at iwise@mail.valenciacollege.edu
 
 
@@ -43,7 +43,4 @@ undefined at iwise@mail.valenciacollege.edu
 
 
 [Repository link](https://github.com/InaWise/9.-Node.js-Challenge-Professional-README-Generator-AKA-challenge9)
-
-https://github.com/InaWise/challenge9
-
 
